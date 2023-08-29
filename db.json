@@ -10,5 +10,27 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "detail": {
+    "status": 200,
+    "message": "ok",
+    "data": {
+      "gender": "F",
+      "mobileNumber": "1762319232",
+      "homeNumber": "1762319232",
+      "officeNumber": "1762319232",
+      "email": "leo@qq.com",
+      "residentialAddress": "somewhere",
+      "placeOfBirth": "",
+      "nationality": "",
+      "educationLevel": "",
+      "maritalStatus": "",
+      "somking": "",
+      "occupation": "",
+      "nwdOptIn": "",
+      "ftlOptIn": "",
+      "piplIndi": "",
+      "picsIndi": ""
+    }
   }
 }
